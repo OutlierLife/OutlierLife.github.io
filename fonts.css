@@ -1,0 +1,15 @@
+
+@font-face{
+    font-family: Abel;
+    src: url("/Abel-Regular.ttf")
+}
+
+@font-face{
+    font-family: Livvic;
+    src: url("/Livvic-Bold.ttf")
+}
+
+@font-face{
+    font-family: Ubuntu;
+    src: url("/ubuntu/Ubuntu-Regular.ttf")
+}
